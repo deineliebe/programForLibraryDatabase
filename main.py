@@ -1,0 +1,3 @@
+import welcomeMenu
+
+welcomeMenu.mainMenu()
